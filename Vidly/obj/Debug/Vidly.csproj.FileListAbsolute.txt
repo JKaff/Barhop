@@ -1,0 +1,124 @@
+C:\Users\mhudnall\Box Sync\Courses\MIS 497 - Advanced Programming\Lecture 9 - MVC Fundamentals\Vidly\Vidly\Vidly\bin\Vidly.dll.config
+C:\Users\mhudnall\Box Sync\Courses\MIS 497 - Advanced Programming\Lecture 9 - MVC Fundamentals\Vidly\Vidly\Vidly\bin\Vidly.dll
+C:\Users\mhudnall\Box Sync\Courses\MIS 497 - Advanced Programming\Lecture 9 - MVC Fundamentals\Vidly\Vidly\Vidly\bin\Vidly.pdb
+C:\Users\mhudnall\Box Sync\Courses\MIS 497 - Advanced Programming\Lecture 9 - MVC Fundamentals\Vidly\Vidly\Vidly\bin\Antlr3.Runtime.dll
+C:\Users\mhudnall\Box Sync\Courses\MIS 497 - Advanced Programming\Lecture 9 - MVC Fundamentals\Vidly\Vidly\Vidly\bin\EntityFramework.dll
+C:\Users\mhudnall\Box Sync\Courses\MIS 497 - Advanced Programming\Lecture 9 - MVC Fundamentals\Vidly\Vidly\Vidly\bin\EntityFramework.SqlServer.dll
+C:\Users\mhudnall\Box Sync\Courses\MIS 497 - Advanced Programming\Lecture 9 - MVC Fundamentals\Vidly\Vidly\Vidly\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\mhudnall\Box Sync\Courses\MIS 497 - Advanced Programming\Lecture 9 - MVC Fundamentals\Vidly\Vidly\Vidly\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\mhudnall\Box Sync\Courses\MIS 497 - Advanced Programming\Lecture 9 - MVC Fundamentals\Vidly\Vidly\Vidly\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\mhudnall\Box Sync\Courses\MIS 497 - Advanced Programming\Lecture 9 - MVC Fundamentals\Vidly\Vidly\Vidly\bin\Microsoft.ApplicationInsights.dll
+C:\Users\mhudnall\Box Sync\Courses\MIS 497 - Advanced Programming\Lecture 9 - MVC Fundamentals\Vidly\Vidly\Vidly\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\mhudnall\Box Sync\Courses\MIS 497 - Advanced Programming\Lecture 9 - MVC Fundamentals\Vidly\Vidly\Vidly\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\mhudnall\Box Sync\Courses\MIS 497 - Advanced Programming\Lecture 9 - MVC Fundamentals\Vidly\Vidly\Vidly\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\mhudnall\Box Sync\Courses\MIS 497 - Advanced Programming\Lecture 9 - MVC Fundamentals\Vidly\Vidly\Vidly\bin\Microsoft.Owin.dll
+C:\Users\mhudnall\Box Sync\Courses\MIS 497 - Advanced Programming\Lecture 9 - MVC Fundamentals\Vidly\Vidly\Vidly\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\mhudnall\Box Sync\Courses\MIS 497 - Advanced Programming\Lecture 9 - MVC Fundamentals\Vidly\Vidly\Vidly\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\mhudnall\Box Sync\Courses\MIS 497 - Advanced Programming\Lecture 9 - MVC Fundamentals\Vidly\Vidly\Vidly\bin\Microsoft.Owin.Security.dll
+C:\Users\mhudnall\Box Sync\Courses\MIS 497 - Advanced Programming\Lecture 9 - MVC Fundamentals\Vidly\Vidly\Vidly\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\mhudnall\Box Sync\Courses\MIS 497 - Advanced Programming\Lecture 9 - MVC Fundamentals\Vidly\Vidly\Vidly\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\mhudnall\Box Sync\Courses\MIS 497 - Advanced Programming\Lecture 9 - MVC Fundamentals\Vidly\Vidly\Vidly\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\mhudnall\Box Sync\Courses\MIS 497 - Advanced Programming\Lecture 9 - MVC Fundamentals\Vidly\Vidly\Vidly\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\mhudnall\Box Sync\Courses\MIS 497 - Advanced Programming\Lecture 9 - MVC Fundamentals\Vidly\Vidly\Vidly\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\mhudnall\Box Sync\Courses\MIS 497 - Advanced Programming\Lecture 9 - MVC Fundamentals\Vidly\Vidly\Vidly\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\mhudnall\Box Sync\Courses\MIS 497 - Advanced Programming\Lecture 9 - MVC Fundamentals\Vidly\Vidly\Vidly\bin\Newtonsoft.Json.dll
+C:\Users\mhudnall\Box Sync\Courses\MIS 497 - Advanced Programming\Lecture 9 - MVC Fundamentals\Vidly\Vidly\Vidly\bin\Owin.dll
+C:\Users\mhudnall\Box Sync\Courses\MIS 497 - Advanced Programming\Lecture 9 - MVC Fundamentals\Vidly\Vidly\Vidly\bin\System.Web.Helpers.dll
+C:\Users\mhudnall\Box Sync\Courses\MIS 497 - Advanced Programming\Lecture 9 - MVC Fundamentals\Vidly\Vidly\Vidly\bin\System.Web.Mvc.dll
+C:\Users\mhudnall\Box Sync\Courses\MIS 497 - Advanced Programming\Lecture 9 - MVC Fundamentals\Vidly\Vidly\Vidly\bin\System.Web.Optimization.dll
+C:\Users\mhudnall\Box Sync\Courses\MIS 497 - Advanced Programming\Lecture 9 - MVC Fundamentals\Vidly\Vidly\Vidly\bin\System.Web.Razor.dll
+C:\Users\mhudnall\Box Sync\Courses\MIS 497 - Advanced Programming\Lecture 9 - MVC Fundamentals\Vidly\Vidly\Vidly\bin\System.Web.WebPages.Deployment.dll
+C:\Users\mhudnall\Box Sync\Courses\MIS 497 - Advanced Programming\Lecture 9 - MVC Fundamentals\Vidly\Vidly\Vidly\bin\System.Web.WebPages.dll
+C:\Users\mhudnall\Box Sync\Courses\MIS 497 - Advanced Programming\Lecture 9 - MVC Fundamentals\Vidly\Vidly\Vidly\bin\System.Web.WebPages.Razor.dll
+C:\Users\mhudnall\Box Sync\Courses\MIS 497 - Advanced Programming\Lecture 9 - MVC Fundamentals\Vidly\Vidly\Vidly\bin\WebGrease.dll
+C:\Users\mhudnall\Box Sync\Courses\MIS 497 - Advanced Programming\Lecture 9 - MVC Fundamentals\Vidly\Vidly\Vidly\bin\System.Web.Helpers.xml
+C:\Users\mhudnall\Box Sync\Courses\MIS 497 - Advanced Programming\Lecture 9 - MVC Fundamentals\Vidly\Vidly\Vidly\bin\System.Web.Mvc.xml
+C:\Users\mhudnall\Box Sync\Courses\MIS 497 - Advanced Programming\Lecture 9 - MVC Fundamentals\Vidly\Vidly\Vidly\bin\System.Web.Optimization.xml
+C:\Users\mhudnall\Box Sync\Courses\MIS 497 - Advanced Programming\Lecture 9 - MVC Fundamentals\Vidly\Vidly\Vidly\bin\System.Web.Razor.xml
+C:\Users\mhudnall\Box Sync\Courses\MIS 497 - Advanced Programming\Lecture 9 - MVC Fundamentals\Vidly\Vidly\Vidly\bin\System.Web.WebPages.xml
+C:\Users\mhudnall\Box Sync\Courses\MIS 497 - Advanced Programming\Lecture 9 - MVC Fundamentals\Vidly\Vidly\Vidly\bin\System.Web.WebPages.Deployment.xml
+C:\Users\mhudnall\Box Sync\Courses\MIS 497 - Advanced Programming\Lecture 9 - MVC Fundamentals\Vidly\Vidly\Vidly\bin\System.Web.WebPages.Razor.xml
+C:\Users\mhudnall\Box Sync\Courses\MIS 497 - Advanced Programming\Lecture 9 - MVC Fundamentals\Vidly\Vidly\Vidly\bin\Antlr3.Runtime.pdb
+C:\Users\mhudnall\Box Sync\Courses\MIS 497 - Advanced Programming\Lecture 9 - MVC Fundamentals\Vidly\Vidly\Vidly\bin\Newtonsoft.Json.xml
+C:\Users\mhudnall\Box Sync\Courses\MIS 497 - Advanced Programming\Lecture 9 - MVC Fundamentals\Vidly\Vidly\Vidly\bin\EntityFramework.xml
+C:\Users\mhudnall\Box Sync\Courses\MIS 497 - Advanced Programming\Lecture 9 - MVC Fundamentals\Vidly\Vidly\Vidly\bin\EntityFramework.SqlServer.xml
+C:\Users\mhudnall\Box Sync\Courses\MIS 497 - Advanced Programming\Lecture 9 - MVC Fundamentals\Vidly\Vidly\Vidly\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\mhudnall\Box Sync\Courses\MIS 497 - Advanced Programming\Lecture 9 - MVC Fundamentals\Vidly\Vidly\Vidly\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\mhudnall\Box Sync\Courses\MIS 497 - Advanced Programming\Lecture 9 - MVC Fundamentals\Vidly\Vidly\Vidly\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\mhudnall\Box Sync\Courses\MIS 497 - Advanced Programming\Lecture 9 - MVC Fundamentals\Vidly\Vidly\Vidly\bin\Microsoft.Owin.xml
+C:\Users\mhudnall\Box Sync\Courses\MIS 497 - Advanced Programming\Lecture 9 - MVC Fundamentals\Vidly\Vidly\Vidly\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\mhudnall\Box Sync\Courses\MIS 497 - Advanced Programming\Lecture 9 - MVC Fundamentals\Vidly\Vidly\Vidly\bin\Microsoft.Owin.Security.xml
+C:\Users\mhudnall\Box Sync\Courses\MIS 497 - Advanced Programming\Lecture 9 - MVC Fundamentals\Vidly\Vidly\Vidly\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\mhudnall\Box Sync\Courses\MIS 497 - Advanced Programming\Lecture 9 - MVC Fundamentals\Vidly\Vidly\Vidly\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\mhudnall\Box Sync\Courses\MIS 497 - Advanced Programming\Lecture 9 - MVC Fundamentals\Vidly\Vidly\Vidly\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\mhudnall\Box Sync\Courses\MIS 497 - Advanced Programming\Lecture 9 - MVC Fundamentals\Vidly\Vidly\Vidly\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\mhudnall\Box Sync\Courses\MIS 497 - Advanced Programming\Lecture 9 - MVC Fundamentals\Vidly\Vidly\Vidly\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\mhudnall\Box Sync\Courses\MIS 497 - Advanced Programming\Lecture 9 - MVC Fundamentals\Vidly\Vidly\Vidly\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\mhudnall\Box Sync\Courses\MIS 497 - Advanced Programming\Lecture 9 - MVC Fundamentals\Vidly\Vidly\Vidly\bin\Microsoft.ApplicationInsights.xml
+C:\Users\mhudnall\Box Sync\Courses\MIS 497 - Advanced Programming\Lecture 9 - MVC Fundamentals\Vidly\Vidly\Vidly\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\mhudnall\Box Sync\Courses\MIS 497 - Advanced Programming\Lecture 9 - MVC Fundamentals\Vidly\Vidly\Vidly\obj\Debug\Vidly.csprojResolveAssemblyReference.cache
+C:\Users\mhudnall\Box Sync\Courses\MIS 497 - Advanced Programming\Lecture 9 - MVC Fundamentals\Vidly\Vidly\Vidly\obj\Debug\Vidly.csproj.CoreCompileInputs.cache
+C:\Users\mhudnall\Box Sync\Courses\MIS 497 - Advanced Programming\Lecture 9 - MVC Fundamentals\Vidly\Vidly\Vidly\obj\Debug\Vidly.dll
+C:\Users\mhudnall\Box Sync\Courses\MIS 497 - Advanced Programming\Lecture 9 - MVC Fundamentals\Vidly\Vidly\Vidly\obj\Debug\Vidly.pdb
+C:\Users\Jesse\source\repos\Vidly\Vidly\bin\Vidly.dll.config
+C:\Users\Jesse\source\repos\Vidly\Vidly\bin\Vidly.dll
+C:\Users\Jesse\source\repos\Vidly\Vidly\bin\Vidly.pdb
+C:\Users\Jesse\source\repos\Vidly\Vidly\bin\Antlr3.Runtime.dll
+C:\Users\Jesse\source\repos\Vidly\Vidly\bin\EntityFramework.dll
+C:\Users\Jesse\source\repos\Vidly\Vidly\bin\EntityFramework.SqlServer.dll
+C:\Users\Jesse\source\repos\Vidly\Vidly\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Jesse\source\repos\Vidly\Vidly\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Jesse\source\repos\Vidly\Vidly\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Jesse\source\repos\Vidly\Vidly\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Jesse\source\repos\Vidly\Vidly\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Jesse\source\repos\Vidly\Vidly\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Jesse\source\repos\Vidly\Vidly\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Jesse\source\repos\Vidly\Vidly\bin\Microsoft.Owin.dll
+C:\Users\Jesse\source\repos\Vidly\Vidly\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Jesse\source\repos\Vidly\Vidly\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Jesse\source\repos\Vidly\Vidly\bin\Microsoft.Owin.Security.dll
+C:\Users\Jesse\source\repos\Vidly\Vidly\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Jesse\source\repos\Vidly\Vidly\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Jesse\source\repos\Vidly\Vidly\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Jesse\source\repos\Vidly\Vidly\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Jesse\source\repos\Vidly\Vidly\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Jesse\source\repos\Vidly\Vidly\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Jesse\source\repos\Vidly\Vidly\bin\Newtonsoft.Json.dll
+C:\Users\Jesse\source\repos\Vidly\Vidly\bin\Owin.dll
+C:\Users\Jesse\source\repos\Vidly\Vidly\bin\System.Web.Helpers.dll
+C:\Users\Jesse\source\repos\Vidly\Vidly\bin\System.Web.Mvc.dll
+C:\Users\Jesse\source\repos\Vidly\Vidly\bin\System.Web.Optimization.dll
+C:\Users\Jesse\source\repos\Vidly\Vidly\bin\System.Web.Razor.dll
+C:\Users\Jesse\source\repos\Vidly\Vidly\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Jesse\source\repos\Vidly\Vidly\bin\System.Web.WebPages.dll
+C:\Users\Jesse\source\repos\Vidly\Vidly\bin\System.Web.WebPages.Razor.dll
+C:\Users\Jesse\source\repos\Vidly\Vidly\bin\WebGrease.dll
+C:\Users\Jesse\source\repos\Vidly\Vidly\bin\System.Web.Helpers.xml
+C:\Users\Jesse\source\repos\Vidly\Vidly\bin\System.Web.Mvc.xml
+C:\Users\Jesse\source\repos\Vidly\Vidly\bin\System.Web.Optimization.xml
+C:\Users\Jesse\source\repos\Vidly\Vidly\bin\System.Web.Razor.xml
+C:\Users\Jesse\source\repos\Vidly\Vidly\bin\System.Web.WebPages.xml
+C:\Users\Jesse\source\repos\Vidly\Vidly\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Jesse\source\repos\Vidly\Vidly\bin\System.Web.WebPages.Razor.xml
+C:\Users\Jesse\source\repos\Vidly\Vidly\bin\Antlr3.Runtime.pdb
+C:\Users\Jesse\source\repos\Vidly\Vidly\bin\Newtonsoft.Json.xml
+C:\Users\Jesse\source\repos\Vidly\Vidly\bin\EntityFramework.xml
+C:\Users\Jesse\source\repos\Vidly\Vidly\bin\EntityFramework.SqlServer.xml
+C:\Users\Jesse\source\repos\Vidly\Vidly\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Jesse\source\repos\Vidly\Vidly\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Jesse\source\repos\Vidly\Vidly\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Jesse\source\repos\Vidly\Vidly\bin\Microsoft.Owin.xml
+C:\Users\Jesse\source\repos\Vidly\Vidly\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Jesse\source\repos\Vidly\Vidly\bin\Microsoft.Owin.Security.xml
+C:\Users\Jesse\source\repos\Vidly\Vidly\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Jesse\source\repos\Vidly\Vidly\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Jesse\source\repos\Vidly\Vidly\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Jesse\source\repos\Vidly\Vidly\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Jesse\source\repos\Vidly\Vidly\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Jesse\source\repos\Vidly\Vidly\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Jesse\source\repos\Vidly\Vidly\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Jesse\source\repos\Vidly\Vidly\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Jesse\source\repos\Vidly\Vidly\obj\Debug\Vidly.csprojResolveAssemblyReference.cache
+C:\Users\Jesse\source\repos\Vidly\Vidly\obj\Debug\Vidly.csproj.CoreCompileInputs.cache
+C:\Users\Jesse\source\repos\Vidly\Vidly\obj\Debug\Vidly.dll
+C:\Users\Jesse\source\repos\Vidly\Vidly\obj\Debug\Vidly.pdb
